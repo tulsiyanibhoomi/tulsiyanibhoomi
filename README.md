@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Website Development<br>🌱 I’m currently learning AI/ML and Database Analyzation<br>👯 I’m a MERN Stack developer<br>💬 Ask me about Web development<br>📫 How to reach me: tulsiyanibhoomi@gmail.com
+
+🔭 I’m currently working on Data Analysis and Business Intelligence Projects<br>
+🌱 I’m currently learning Advanced Data Analytics, Data Engineering, and Machine Learning<br>
+👯 I’m passionate about Data Analytics, Data Visualization, and ETL Development<br>
+💬 Ask me about SQL, Python, Excel, Power BI, and Data Analysis<br>
+📫 How to reach me: [tulsiyanibhoomi@gmail.com](mailto:tulsiyanibhoomi@gmail.com)
 
 
 ## 🌐 Socials:
